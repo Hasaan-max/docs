@@ -28,7 +28,7 @@ topics:
 
 For example, you can use forks to propose changes related to fixing a bug. Rather than logging an issue for a bug you have found, you can:
 
-* Fork the repository.
+* Fork the repository if you want to .
 * Make the fix.
 * Submit a pull request to the project owner.
 
